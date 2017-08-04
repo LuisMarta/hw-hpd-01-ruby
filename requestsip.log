@@ -1,0 +1,35 @@
+# Logfile created on 2017-08-04 19:04:40 -0300 by logger.rb/56815
+I, [2017-08-04T19:04:46.155604 #28376]  INFO -- Mensagem: Solicitação de ip 10.1.10.3 do usuário luismarta@example
+I, [2017-08-04T19:04:57.935452 #28378]  INFO -- Mensagem: Solicitação de ip 10.1.10.4 do usuário luismarta@example
+I, [2017-08-04T19:04:59.158634 #28379]  INFO -- Mensagem: Solicitação de ip 10.1.10.5 do usuário luismarta@example
+I, [2017-08-04T19:05:00.276674 #28380]  INFO -- Mensagem: Solicitação de ip 10.1.10.9 do usuário luismarta@example
+I, [2017-08-04T19:05:01.337768 #28381]  INFO -- Mensagem: Solicitação de ip 10.1.10.20 do usuário luismarta@example
+I, [2017-08-04T19:05:02.331610 #28382]  INFO -- Mensagem: Solicitação de ip 10.1.10.22 do usuário luismarta@example
+I, [2017-08-04T19:05:03.249863 #28383]  INFO -- Mensagem: Solicitação de ip 10.1.10.57 do usuário luismarta@example
+I, [2017-08-04T19:05:04.195107 #28384]  INFO -- Mensagem: Solicitação de ip 10.1.10.59 do usuário luismarta@example
+I, [2017-08-04T19:05:05.064817 #28385]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:06.104566 #28386]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:06.907778 #28387]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:07.804924 #28388]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:08.457464 #28389]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:28.673495 #28391]  INFO -- Mensagem: Solicitação de ip 10.1.10.59 do usuário luismarta@example
+I, [2017-08-04T19:05:29.992685 #28392]  INFO -- Mensagem: Solicitação de ip 10.1.10.57 do usuário luismarta@example
+I, [2017-08-04T19:05:30.781054 #28393]  INFO -- Mensagem: Solicitação de ip 10.1.10.22 do usuário luismarta@example
+I, [2017-08-04T19:05:31.503517 #28394]  INFO -- Mensagem: Solicitação de ip 10.1.10.20 do usuário luismarta@example
+I, [2017-08-04T19:05:32.085476 #28395]  INFO -- Mensagem: Solicitação de ip 10.1.10.9 do usuário luismarta@example
+I, [2017-08-04T19:05:32.692415 #28396]  INFO -- Mensagem: Solicitação de ip 10.1.10.5 do usuário luismarta@example
+I, [2017-08-04T19:05:33.332530 #28397]  INFO -- Mensagem: Solicitação de ip 10.1.10.4 do usuário luismarta@example
+I, [2017-08-04T19:05:34.161788 #28398]  INFO -- Mensagem: Solicitação de ip 10.1.10.3 do usuário luismarta@example
+I, [2017-08-04T19:05:34.837092 #28399]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:35.636079 #28400]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:05:36.341374 #28401]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:07:23.254577 #28405]  INFO -- Mensagem: Solicitação de ip 10.1.10.3 do usuário luismarta@example
+I, [2017-08-04T19:07:25.971081 #28406]  INFO -- Mensagem: Solicitação de ip 10.1.10.4 do usuário luismarta@example
+I, [2017-08-04T19:07:26.982492 #28407]  INFO -- Mensagem: Solicitação de ip 10.1.10.5 do usuário luismarta@example
+I, [2017-08-04T19:07:27.839898 #28408]  INFO -- Mensagem: Solicitação de ip 10.1.10.9 do usuário luismarta@example
+I, [2017-08-04T19:07:28.599597 #28409]  INFO -- Mensagem: Solicitação de ip 10.1.10.20 do usuário luismarta@example
+I, [2017-08-04T19:07:29.313718 #28410]  INFO -- Mensagem: Solicitação de ip 10.1.10.22 do usuário luismarta@example
+I, [2017-08-04T19:07:30.201877 #28411]  INFO -- Mensagem: Solicitação de ip 10.1.10.57 do usuário luismarta@example
+I, [2017-08-04T19:07:30.990806 #28412]  INFO -- Mensagem: Solicitação de ip 10.1.10.59 do usuário luismarta@example
+I, [2017-08-04T19:07:31.799350 #28413]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
+I, [2017-08-04T19:07:32.886654 #28414]  INFO -- Critico: Falhou não há mais ips disponiveis para usuário luismarta@example
